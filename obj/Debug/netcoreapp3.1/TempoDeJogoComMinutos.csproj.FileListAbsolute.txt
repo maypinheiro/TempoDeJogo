@@ -1,0 +1,14 @@
+C:\Users\017586631\source\repos\TempoDeJogoComMinutos\bin\Debug\netcoreapp3.1\TempoDeJogoComMinutos.exe
+C:\Users\017586631\source\repos\TempoDeJogoComMinutos\bin\Debug\netcoreapp3.1\TempoDeJogoComMinutos.deps.json
+C:\Users\017586631\source\repos\TempoDeJogoComMinutos\bin\Debug\netcoreapp3.1\TempoDeJogoComMinutos.runtimeconfig.json
+C:\Users\017586631\source\repos\TempoDeJogoComMinutos\bin\Debug\netcoreapp3.1\TempoDeJogoComMinutos.runtimeconfig.dev.json
+C:\Users\017586631\source\repos\TempoDeJogoComMinutos\bin\Debug\netcoreapp3.1\TempoDeJogoComMinutos.dll
+C:\Users\017586631\source\repos\TempoDeJogoComMinutos\bin\Debug\netcoreapp3.1\TempoDeJogoComMinutos.pdb
+C:\Users\017586631\source\repos\TempoDeJogoComMinutos\obj\Debug\netcoreapp3.1\TempoDeJogoComMinutos.csproj.AssemblyReference.cache
+C:\Users\017586631\source\repos\TempoDeJogoComMinutos\obj\Debug\netcoreapp3.1\TempoDeJogoComMinutos.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\017586631\source\repos\TempoDeJogoComMinutos\obj\Debug\netcoreapp3.1\TempoDeJogoComMinutos.AssemblyInfoInputs.cache
+C:\Users\017586631\source\repos\TempoDeJogoComMinutos\obj\Debug\netcoreapp3.1\TempoDeJogoComMinutos.AssemblyInfo.cs
+C:\Users\017586631\source\repos\TempoDeJogoComMinutos\obj\Debug\netcoreapp3.1\TempoDeJogoComMinutos.csproj.CoreCompileInputs.cache
+C:\Users\017586631\source\repos\TempoDeJogoComMinutos\obj\Debug\netcoreapp3.1\TempoDeJogoComMinutos.dll
+C:\Users\017586631\source\repos\TempoDeJogoComMinutos\obj\Debug\netcoreapp3.1\TempoDeJogoComMinutos.pdb
+C:\Users\017586631\source\repos\TempoDeJogoComMinutos\obj\Debug\netcoreapp3.1\TempoDeJogoComMinutos.genruntimeconfig.cache
